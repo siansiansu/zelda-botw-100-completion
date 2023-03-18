@@ -1,4 +1,4 @@
-# zelda-botw-100-completion
+# z100 Percent Completion Checklist in Zelda BotW
 
 - [x] Activate all 15 Sheikah Towers.
 - [x] Complete all 15 Main Quests (excluding "Destroy Ganon").  
