@@ -49,6 +49,17 @@
 ![image](https://user-images.githubusercontent.com/33391637/226094746-38cbb9e6-6d39-4871-8643-e3424cb37b4d.png)  
 ![image](https://user-images.githubusercontent.com/33391637/226094673-8139196a-d749-4899-8f26-f9e2162a1907.png)
 - [x] Obtain every shield reward from the Shield-Surfing Mini-Game.
+    - [x] < 1:30 Royal Shield
+    ![image](https://user-images.githubusercontent.com/33391637/226130712-9b523342-bd99-456a-9486-f1b19b60a2ec.png)
+    - [x] 1:45-2:00 Knight's Shield
+    - [x] 2:00-2:15 Soldier's Shield
+    - [x] 2:15-2:30	Kite Shield
+    ![image](https://user-images.githubusercontent.com/33391637/226130729-3a04826f-ddd4-484d-88e4-1c33fdd55b27.png)
+    - [x] 2:30-2:45	Traveler's Shield
+    - [x] 2:45-3:00	Fisherman's Shield
+    - [x] 3:00-3:15	Emblazoned Shield
+    - [x] 3:15-3:30	Hunter's Shield
+    - [x] > 3:30 Wooden Shield
 - [x] Optional: Light every Blue Flame Pedestal with Blue Flame.  
 ![image](https://user-images.githubusercontent.com/33391637/226126160-97f1ddd9-75b0-4bf6-a893-36e93729e923.png)
 - [x] Optional: Obtain all amiibo-exclusive gear.
