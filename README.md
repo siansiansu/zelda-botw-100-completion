@@ -78,6 +78,9 @@
 - [x] Obtain the Nintendo Switch Shirt.  
 ![image](https://user-images.githubusercontent.com/33391637/226094929-b0fbe677-3684-42da-bef0-113448629a0b.png)
 - [x] Open all three additional Treasure Chests.
+    - [ ] Ja Baij Shrine - Nintendo Switch Shirt.
+    - [ ] Oman Au Shrine - Ruby.
+    - [ ] Keh Namut Shrine - Five Bomb Arrows.
 
 ## The Master Trials
 
