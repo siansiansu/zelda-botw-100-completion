@@ -65,6 +65,7 @@
 ## The Champions' Ballad
 - [x] Complete all five additional Main Quests.
 - [x] Complete all six additional Side Quests.
+![image](https://user-images.githubusercontent.com/33391637/226096420-72759022-2bd6-4baf-b164-7c3f18a62f57.png)
 - [x] Place the Picture of the Champions in Link's House.
 
 
