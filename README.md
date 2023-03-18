@@ -21,7 +21,6 @@
 - [x] Listen to Kass's final song in Rito Village.  
 ![image](https://user-images.githubusercontent.com/33391637/226125963-0b279b31-b28e-42a7-be7e-4454c47bdcde.png)
 - [x] Obtain all 120 Spirit Orbs.  
-![map](https://user-images.githubusercontent.com/33391637/226092972-dd01e283-2d8e-480e-9304-581076881913.png)
 - [x] Obtain all Horse Gear.
     - [x] Ancient Bridle.  
     ![image](https://user-images.githubusercontent.com/33391637/226124244-defe4de3-3eda-4247-9e6a-67956382c6cb.png)
