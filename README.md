@@ -40,7 +40,7 @@
 ![image](https://user-images.githubusercontent.com/33391637/226094673-8139196a-d749-4899-8f26-f9e2162a1907.png)
 
 - [x] Obtain and fully upgrade all non-sellable Armor (The Champion's Tunic, Zora Helm, Zora Armor, Zora Greaves, Cap of the Wild, Tunic of the Wild, Trousers of the Wild, and the Thunder Helm).  
-![image](https://user-images.githubusercontent.com/33391637/226095553-febbbac4-e9be-4581-908c-2a1e284d5b6c.png)
+![image](https://user-images.githubusercontent.com/33391637/226096901-d17720d7-75e3-4baa-9c0a-daaa63cb4690.png)
 - [x] Obtain all Horse Gear.
 - [x] Speak to every Character at least once to register their name.
 - [x] Discover every possible Weapon, Shield, Bow, Material, and Food once, including baked and frozen variants of food.
