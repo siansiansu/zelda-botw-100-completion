@@ -36,11 +36,15 @@
 - [x] Obtain all Horse Gear.
     - [ ] Ancient Bridle
     - [ ] Extravagant Bridle
+    ![image](https://user-images.githubusercontent.com/33391637/226120572-188eaa82-b3c9-4dd2-b252-6039e3c3ed3c.png)
     - [ ] Knight's Bridle  
     ![image](https://user-images.githubusercontent.com/33391637/226096901-d17720d7-75e3-4baa-9c0a-daaa63cb4690.png)
     - [ ] Monster Bridle
+    ![image](https://user-images.githubusercontent.com/33391637/226119237-21ae74fe-d0d1-4eb3-acbf-ead40588fe45.png)
     - [ ] Royal Bridle
+    ![image](https://user-images.githubusercontent.com/33391637/226120557-3a053044-f8ae-4717-8243-d3dbc9d441c4.png)
     - [ ] Stable Bridle
+    ![image](https://user-images.githubusercontent.com/33391637/226120487-e72b08cd-148e-4fce-b988-797bc7a36dae.png)
     - [ ] Traveler's Bridle
 - [x] Speak to every Character at least once to register their name.
 - [x] Discover every possible Weapon, Shield, Bow, Material, and Food once, including baked and frozen variants of food.
