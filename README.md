@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/33391637/226093779-d78fdb53-0240-4161-be51-3d943cf27680.png)
 - [x] Complete the "Destroy Ganon" Main Quest to unlock the percentage counter in the bottom left corner of the Sheikah Slate's map, and reach 100.00% on it.  
 ![map](https://user-images.githubusercontent.com/33391637/226092972-dd01e283-2d8e-480e-9304-581076881913.png)
-    - [x] Complete all 4 Divine Beasts. (0.32%)  
+    - [x] Complete all 4 Divine Beasts. (0.32%)
     - [x] Discover all 120 Ancient Shrine. (9.6%)
     - [x] Discover all 226 Locations. (18.08%)
     - [x] Obtain all 900 Korok Seeds. (72%)  
@@ -18,29 +18,30 @@
 - [x] Find all 18 Recovered Memories.  
 ![image](https://user-images.githubusercontent.com/33391637/226093789-69998580-02e4-435d-820c-96e76003e094.png)
 - [x] Fully expand all Weapon, Shield, and Bow Inventories and obtain Hestu's Gift.
-- [x] Listen to Kass's final song in Rito Village.
+- [x] Listen to Kass's final song in Rito Village.  
+![image](https://user-images.githubusercontent.com/33391637/226125963-0b279b31-b28e-42a7-be7e-4454c47bdcde.png)
 - [x] Obtain all 120 Spirit Orbs.  
 ![map](https://user-images.githubusercontent.com/33391637/226092972-dd01e283-2d8e-480e-9304-581076881913.png)
 - [x] Obtain all Horse Gear.
-    - [x] Ancient Bridle  
-![image](https://user-images.githubusercontent.com/33391637/226124244-defe4de3-3eda-4247-9e6a-67956382c6cb.png)
-    - [x] Extravagant Bridle  
+    - [x] Ancient Bridle.  
+    ![image](https://user-images.githubusercontent.com/33391637/226124244-defe4de3-3eda-4247-9e6a-67956382c6cb.png)
+    - [x] Extravagant Bridle.  
     ![image](https://user-images.githubusercontent.com/33391637/226120572-188eaa82-b3c9-4dd2-b252-6039e3c3ed3c.png)
-    - [x] Knight's Bridle  
+    - [x] Knight's Bridle.  
     ![image](https://user-images.githubusercontent.com/33391637/226096901-d17720d7-75e3-4baa-9c0a-daaa63cb4690.png)
-    - [x] Monster Bridle  
+    - [x] Monster Bridle.  
     ![image](https://user-images.githubusercontent.com/33391637/226119237-21ae74fe-d0d1-4eb3-acbf-ead40588fe45.png)
-    - [x] Royal Bridle  
+    - [x] Royal Bridle.  
     ![image](https://user-images.githubusercontent.com/33391637/226120557-3a053044-f8ae-4717-8243-d3dbc9d441c4.png)
-    - [x] Stable Bridle  
+    - [x] Stable Bridle.  
     ![image](https://user-images.githubusercontent.com/33391637/226120487-e72b08cd-148e-4fce-b988-797bc7a36dae.png)
-    - [x] Traveler's Bridle
+    - [x] Traveler's Bridle.
 - [x] Obtain all Mini-Boss Medals of Honor from Kilton.
-    - [ ] Medal of Honor: Hinox  
+    - [ ] Medal of Honor: Hinox.  
     ![image](https://user-images.githubusercontent.com/33391637/226124650-c95b450e-8e7e-4bbc-8bb0-45f5ad7f5058.png)
-    - [ ] Medal of Honor: Talus  
+    - [ ] Medal of Honor: Talus.  
     ![image](https://user-images.githubusercontent.com/33391637/226124810-7b9c3904-f9f9-432e-b470-58d35f11c187.png)
-    - [ ] Medal of Honor: Molduga  
+    - [ ] Medal of Honor: Molduga.  
     ![image](https://user-images.githubusercontent.com/33391637/226124733-5efb3a27-65e6-43a6-a634-69506c9bd81e.png)
 
 - [x] Obtain and fully upgrade all non-sellable Armor (The Champion's Tunic, Zora Helm, Zora Armor, Zora Greaves, Cap of the Wild, Tunic of the Wild, Trousers of the Wild, and the Thunder Helm).  
@@ -49,8 +50,9 @@
 ![image](https://user-images.githubusercontent.com/33391637/226094746-38cbb9e6-6d39-4871-8643-e3424cb37b4d.png)  
 ![image](https://user-images.githubusercontent.com/33391637/226094673-8139196a-d749-4899-8f26-f9e2162a1907.png)
 - [x] Obtain every shield reward from the Shield-Surfing Mini-Game.
-- [x] Optional: Light every Blue Flame Pedestal with Blue Flame.
-- [x] Optional: Obtain all amiibo-exclusive gear.  
+- [x] Optional: Light every Blue Flame Pedestal with Blue Flame.  
+![image](https://user-images.githubusercontent.com/33391637/226126160-97f1ddd9-75b0-4bf6-a893-36e93729e923.png)
+- [x] Optional: Obtain all amiibo-exclusive gear.
 - [x] Optional: Obtain and fully upgrade one of every type of Armor.
 - [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.  
 ![image](https://user-images.githubusercontent.com/33391637/226094370-9bbacf7c-6b1d-42ed-b35f-6521b914fb47.png)
@@ -76,8 +78,9 @@
 ## Xenoblade Chronicles 2
 
 - [x] Complete the additional Side Quest.  
-![image](https://user-images.githubusercontent.com/33391637/226096626-19569e14-11ef-4c6a-abd8-dc2313ed1be9.png)  
 ![image](https://user-images.githubusercontent.com/33391637/226096003-fb1bbfc8-44ee-46cc-b4f5-ac9bced30cf5.png)
+    - [x] Obtain Xenoblade Chronicles 2 Armor  
+![image](https://user-images.githubusercontent.com/33391637/226096626-19569e14-11ef-4c6a-abd8-dc2313ed1be9.png)
 
 ## The Champions' Ballad
 
