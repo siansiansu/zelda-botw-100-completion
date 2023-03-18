@@ -1,59 +1,62 @@
 # zelda-botw-100-completion
 
-- [x] Complete the "Destroy Ganon" Main Quest to unlock the percentage counter in the bottom left corner of the Sheikah Slate's map, and reach 100.00% on it.  
-    - [x] Complete all 4 Divine Beasts. (0.32%)  
-    - [x] Obtain all 900 Korok Seeds. (72%)  
-    ![900 Korok Seeds](https://user-images.githubusercontent.com/33391637/226094422-74a34b29-3ed9-4db4-8691-3169a0303564.png)
-    - [x] Discover all 120 Ancient Shrine. (9.6%)  
-    - [x] Discover all 226 Locations. (18.08%)
 - [x] Activate all 15 Sheikah Towers.
-- [x] Obtain all 120 Spirit Orbs.  
-![map](https://user-images.githubusercontent.com/33391637/226092972-dd01e283-2d8e-480e-9304-581076881913.png)
-
 - [x] Complete all 15 Main Quests (excluding "Destroy Ganon").  
 ![image](https://user-images.githubusercontent.com/33391637/226093730-b85f93fb-7be4-4458-b123-18ca40581d8b.png)
-
-- [x] Complete all 76 Side Quests.  
-![image](https://user-images.githubusercontent.com/33391637/226093779-d78fdb53-0240-4161-be51-3d943cf27680.png)
-
 - [x] Complete all 42 Shrine Quests.  
 ![image](https://user-images.githubusercontent.com/33391637/226093748-49cfa9bf-d5b6-4542-9fdb-f8585e53f841.png)
-
+- [x] Complete all 76 Side Quests.  
+![image](https://user-images.githubusercontent.com/33391637/226093779-d78fdb53-0240-4161-be51-3d943cf27680.png)
+- [x] Complete the "Destroy Ganon" Main Quest to unlock the percentage counter in the bottom left corner of the Sheikah Slate's map, and reach 100.00% on it.  
+![map](https://user-images.githubusercontent.com/33391637/226092972-dd01e283-2d8e-480e-9304-581076881913.png)
+    - [x] Complete all 4 Divine Beasts. (0.32%)  
+    - [x] Discover all 120 Ancient Shrine. (9.6%)
+    - [x] Discover all 226 Locations. (18.08%)
+    - [x] Obtain all 900 Korok Seeds. (72%)  
+    ![900 Korok Seeds](https://user-images.githubusercontent.com/33391637/226094422-74a34b29-3ed9-4db4-8691-3169a0303564.png)
+- [x] Discover every possible Weapon, Shield, Bow, Material, and Food once, including baked and frozen variants of food.
 - [x] Find all 18 Recovered Memories.  
 ![image](https://user-images.githubusercontent.com/33391637/226093789-69998580-02e4-435d-820c-96e76003e094.png)
-
-- [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.  
-![image](https://user-images.githubusercontent.com/33391637/226094370-9bbacf7c-6b1d-42ed-b35f-6521b914fb47.png)
 - [x] Fully expand all Weapon, Shield, and Bow Inventories and obtain Hestu's Gift.
-- [x] Reveal all skills in the Ability Controls Menu.
-- [x] Obtain all Mini-Boss Medals of Honor from Kilton.  
+- [x] Listen to Kass's final song in Rito Village.
+- [x] Obtain all 120 Spirit Orbs.  
+![map](https://user-images.githubusercontent.com/33391637/226092972-dd01e283-2d8e-480e-9304-581076881913.png)
+- [x] Obtain all Horse Gear.
+    - [x] Ancient Bridle  
+![image](https://user-images.githubusercontent.com/33391637/226124244-defe4de3-3eda-4247-9e6a-67956382c6cb.png)
+    - [x] Extravagant Bridle  
+    ![image](https://user-images.githubusercontent.com/33391637/226120572-188eaa82-b3c9-4dd2-b252-6039e3c3ed3c.png)
+    - [x] Knight's Bridle  
+    ![image](https://user-images.githubusercontent.com/33391637/226096901-d17720d7-75e3-4baa-9c0a-daaa63cb4690.png)
+    - [x] Monster Bridle  
+    ![image](https://user-images.githubusercontent.com/33391637/226119237-21ae74fe-d0d1-4eb3-acbf-ead40588fe45.png)
+    - [x] Royal Bridle  
+    ![image](https://user-images.githubusercontent.com/33391637/226120557-3a053044-f8ae-4717-8243-d3dbc9d441c4.png)
+    - [x] Stable Bridle  
+    ![image](https://user-images.githubusercontent.com/33391637/226120487-e72b08cd-148e-4fce-b988-797bc7a36dae.png)
+    - [x] Traveler's Bridle
+- [x] Obtain all Mini-Boss Medals of Honor from Kilton.
+    - [ ] Medal of Honor: Hinox  
+    ![image](https://user-images.githubusercontent.com/33391637/226124650-c95b450e-8e7e-4bbc-8bb0-45f5ad7f5058.png)
+    - [ ] Medal of Honor: Talus  
+    ![image](https://user-images.githubusercontent.com/33391637/226124810-7b9c3904-f9f9-432e-b470-58d35f11c187.png)
+    - [ ] Medal of Honor: Molduga  
+    ![image](https://user-images.githubusercontent.com/33391637/226124733-5efb3a27-65e6-43a6-a634-69506c9bd81e.png)
+
 - [x] Obtain and fully upgrade all non-sellable Armor (The Champion's Tunic, Zora Helm, Zora Armor, Zora Greaves, Cap of the Wild, Tunic of the Wild, Trousers of the Wild, and the Thunder Helm).  
 ![image](https://user-images.githubusercontent.com/33391637/226094712-6af723e4-cd1b-454a-b9ca-47b59c7d405b.png)  
 ![image](https://user-images.githubusercontent.com/33391637/226094720-22b5cf9e-5aa0-4a24-88a6-faf2dadb6b7f.png)  
 ![image](https://user-images.githubusercontent.com/33391637/226094746-38cbb9e6-6d39-4871-8643-e3424cb37b4d.png)  
 ![image](https://user-images.githubusercontent.com/33391637/226094673-8139196a-d749-4899-8f26-f9e2162a1907.png)
-
-- [x] Obtain all Horse Gear.
-    - [ ] Ancient Bridle
-    - [ ] Extravagant Bridle
-    ![image](https://user-images.githubusercontent.com/33391637/226120572-188eaa82-b3c9-4dd2-b252-6039e3c3ed3c.png)
-    - [ ] Knight's Bridle  
-    ![image](https://user-images.githubusercontent.com/33391637/226096901-d17720d7-75e3-4baa-9c0a-daaa63cb4690.png)
-    - [ ] Monster Bridle
-    ![image](https://user-images.githubusercontent.com/33391637/226119237-21ae74fe-d0d1-4eb3-acbf-ead40588fe45.png)
-    - [ ] Royal Bridle
-    ![image](https://user-images.githubusercontent.com/33391637/226120557-3a053044-f8ae-4717-8243-d3dbc9d441c4.png)
-    - [ ] Stable Bridle
-    ![image](https://user-images.githubusercontent.com/33391637/226120487-e72b08cd-148e-4fce-b988-797bc7a36dae.png)
-    - [ ] Traveler's Bridle
-- [x] Speak to every Character at least once to register their name.
-- [x] Discover every possible Weapon, Shield, Bow, Material, and Food once, including baked and frozen variants of food.
 - [x] Obtain every shield reward from the Shield-Surfing Mini-Game.
-- [x] Search every dead Guardian and abandoned Wagon.
-- [x] Listen to Kass's final song in Rito Village.
-- [x] Optional: Obtain and fully upgrade one of every type of Armor.
 - [x] Optional: Light every Blue Flame Pedestal with Blue Flame.
 - [x] Optional: Obtain all amiibo-exclusive gear.  
+- [x] Optional: Obtain and fully upgrade one of every type of Armor.
+- [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.  
+![image](https://user-images.githubusercontent.com/33391637/226094370-9bbacf7c-6b1d-42ed-b35f-6521b914fb47.png)
+- [x] Reveal all skills in the Ability Controls Menu.
+- [x] Search every dead Guardian and abandoned Wagon.
+- [x] Speak to every Character at least once to register their name.
 
 ## Expansion Pass
 
@@ -65,10 +68,10 @@
 
 ## The Master Trials
 
-- [x] Complete the seven additional Side Quests.  
-![image](https://user-images.githubusercontent.com/33391637/226094519-ba331632-fde9-4049-b60a-880d7dabce6c.png)
 - [x] 100% complete both Normal and Master Mode.  
 ![image](https://user-images.githubusercontent.com/33391637/226093804-a0986959-b58a-491f-9aac-b0f4a9052316.png)
+- [x] Complete the seven additional Side Quests.  
+![image](https://user-images.githubusercontent.com/33391637/226094519-ba331632-fde9-4049-b60a-880d7dabce6c.png)
 
 ## Xenoblade Chronicles 2
 
