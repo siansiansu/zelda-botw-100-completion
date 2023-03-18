@@ -59,7 +59,7 @@
 - [x] 100% complete both Normal and Master Mode.
 
 ## Xenoblade Chronicles 2
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/33391637/226096003-fb1bbfc8-44ee-46cc-b4f5-ac9bced30cf5.png)
 - [x] Complete the additional Side Quest.
 
 ## The Champions' Ballad
