@@ -47,21 +47,25 @@
 - [x] Optional: Light every Blue Flame Pedestal with Blue Flame.
 - [x] Optional: Obtain all amiibo-exclusive gear.
 ![image](https://user-images.githubusercontent.com/33391637/226095483-6519eba3-4f0e-43c4-b4ff-2f9107f074c8.png)
-- [x] Expansion Pass
+
+## Expansion Pass
 ![image](https://user-images.githubusercontent.com/33391637/226094929-b0fbe677-3684-42da-bef0-113448629a0b.png)
 - [x] Obtain the Nintendo Switch Shirt.
 - [x] Open all three additional Treasure Chests.
+
+## [x] The Master Trials
 ![image](https://user-images.githubusercontent.com/33391637/226094519-ba331632-fde9-4049-b60a-880d7dabce6c.png)
-- [x] The Master Trials
 - [x] Complete the seven additional Side Quests.
 - [x] 100% complete both Normal and Master Mode.
-- [x] Xenoblade Chronicles 2
+
+## Xenoblade Chronicles 2
+![Uploading image.png…]()
 - [x] Complete the additional Side Quest.
-- [x] The Champions' Ballad
+
+## The Champions' Ballad
 - [x] Complete all five additional Main Quests.
 - [x] Complete all six additional Side Quests.
 - [x] Place the Picture of the Champions in Link's House.
-
 
 
 
