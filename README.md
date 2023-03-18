@@ -89,9 +89,9 @@
 ## Xenoblade Chronicles 2
 
 - [x] Complete the additional Side Quest.  
-![image](https://user-images.githubusercontent.com/33391637/226096003-fb1bbfc8-44ee-46cc-b4f5-ac9bced30cf5.png)
-    - [x] Obtain Xenoblade Chronicles 2 Armor  
 ![image](https://user-images.githubusercontent.com/33391637/226096626-19569e14-11ef-4c6a-abd8-dc2313ed1be9.png)
+    - [x] Obtain Xenoblade Chronicles 2 Armor  
+    ![image](https://user-images.githubusercontent.com/33391637/226096003-fb1bbfc8-44ee-46cc-b4f5-ac9bced30cf5.png)
 
 ## The Champions' Ballad
 
