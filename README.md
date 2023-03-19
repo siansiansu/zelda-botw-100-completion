@@ -25,6 +25,10 @@
 - [x] Complete the "Destroy Ganon" Main Quest to unlock the percentage counter in the bottom left corner of the Sheikah Slate's map, and reach 100.00% on it.  
 ![map](https://user-images.githubusercontent.com/33391637/226092972-dd01e283-2d8e-480e-9304-581076881913.png)
     - [x] Complete all 4 Divine Beasts. (0.32%)
+        - [x] Vah Medoh
+        - [x] Vah Naboris
+        - [x] Vah Rudania
+        - [x] Vah Ruta
     - [x] Discover all 120 Ancient Shrine. (9.6%)
     - [x] Discover all 226 Locations. (18.08%)
     - [x] Obtain all 900 Korok Seeds. (72%)  
