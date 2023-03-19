@@ -44,19 +44,24 @@
     - [ ] Medal of Honor: Molduga.  
     ![image](https://user-images.githubusercontent.com/33391637/226124733-5efb3a27-65e6-43a6-a634-69506c9bd81e.png)
 
-- [x] Obtain and fully upgrade all non-sellable Armor (The Champion's Tunic, Zora Helm, Zora Armor, Zora Greaves, Cap of the Wild, Tunic of the Wild, Trousers of the Wild, and the Thunder Helm).  
-![image](https://user-images.githubusercontent.com/33391637/226094712-6af723e4-cd1b-454a-b9ca-47b59c7d405b.png)  
-![image](https://user-images.githubusercontent.com/33391637/226094720-22b5cf9e-5aa0-4a24-88a6-faf2dadb6b7f.png)  
-![image](https://user-images.githubusercontent.com/33391637/226094746-38cbb9e6-6d39-4871-8643-e3424cb37b4d.png)  
-![image](https://user-images.githubusercontent.com/33391637/226094673-8139196a-d749-4899-8f26-f9e2162a1907.png)
+- [x] Obtain and fully upgrade all non-sellable Armor.
+    - [x] The Champion's Tunic.
+    - [x] Zora Helm.
+    - [x] Zora Armor.
+    - [x] Zora Greaves.
+    - [x] Cap of the Wild.
+    - [x] Tunic of the Wild.
+    - [x] Trousers of the Wild.
+    - [x] Thunder Helm.
 - [x] Obtain every shield reward from the Shield-Surfing Mini-Game.
-    - [x] < 1:30 Royal Shield
+    - [x] < 1:30 Royal Shield  
     ![image](https://user-images.githubusercontent.com/33391637/226130712-9b523342-bd99-456a-9486-f1b19b60a2ec.png)
     - [x] 1:45-2:00 Knight's Shield
     - [x] 2:00-2:15 Soldier's Shield
-    - [x] 2:15-2:30	Kite Shield
+    - [x] 2:15-2:30	Kite Shield  
     ![image](https://user-images.githubusercontent.com/33391637/226130729-3a04826f-ddd4-484d-88e4-1c33fdd55b27.png)
-    - [x] 2:30-2:45	Traveler's Shield
+    - [x] 2:30-2:45	Traveler's Shield  
+    ![image](https://user-images.githubusercontent.com/33391637/226194673-73a1efb2-d661-46d7-969e-484189c205a6.png)
     - [x] 2:45-3:00	Fisherman's Shield
     - [x] 3:00-3:15	Emblazoned Shield
     - [x] 3:15-3:30	Hunter's Shield
@@ -65,8 +70,12 @@
 ![image](https://user-images.githubusercontent.com/33391637/226126160-97f1ddd9-75b0-4bf6-a893-36e93729e923.png)
 - [x] Optional: Obtain all amiibo-exclusive gear.
 - [x] Optional: Obtain and fully upgrade one of every type of Armor.
-- [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.  
-![image](https://user-images.githubusercontent.com/33391637/226094370-9bbacf7c-6b1d-42ed-b35f-6521b914fb47.png)
+- [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.
+    - [x] Creatures.
+    - [x] Monsters.
+    - [x] Materials.
+    - [x] Equipment.
+    - [x] Treasure.
 - [x] Reveal all skills in the Ability Controls Menu.
 - [x] Search every dead Guardian and abandoned Wagon.
 - [x] Speak to every Character at least once to register their name.
