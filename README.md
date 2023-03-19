@@ -1,6 +1,21 @@
 # The 100% Breath of the Wild Guide
 
 - [x] Activate all 15 Sheikah Towers.
+    - [x] Akkala Tower
+    - [x] Central Tower
+    - [x] Dueling Peaks Tower
+    - [x] Eldin Tower
+    - [x] Faron Tower
+    - [x] Gerudo Tower
+    - [x] Great Plateu Tower
+    - [x] Hateno Tower
+    - [x] Hebra Tower
+    - [x] Lake Tower
+    - [x] Lanaryu Tower
+    - [x] Ridgeland Tower
+    - [x] Tabantha Tower
+    - [x] Wastelands Tower
+    - [x] Woodland Tower
 - [x] Complete all 15 Main Quests (excluding "Destroy Ganon").  
 ![image](https://user-images.githubusercontent.com/33391637/226093730-b85f93fb-7be4-4458-b123-18ca40581d8b.png)
 - [x] Complete all 42 Shrine Quests.  
@@ -45,14 +60,14 @@
     ![image](https://user-images.githubusercontent.com/33391637/226124733-5efb3a27-65e6-43a6-a634-69506c9bd81e.png)
 
 - [x] Obtain and fully upgrade all non-sellable Armor.
+    - [x] Cap of the Wild.
     - [x] The Champion's Tunic.
-    - [x] Zora Helm.
+    - [x] Thunder Helm.
+    - [x] Trousers of the Wild.
+    - [x] Tunic of the Wild.
     - [x] Zora Armor.
     - [x] Zora Greaves.
-    - [x] Cap of the Wild.
-    - [x] Tunic of the Wild.
-    - [x] Trousers of the Wild.
-    - [x] Thunder Helm.
+    - [x] Zora Helm.
 - [x] Obtain every shield reward from the Shield-Surfing Mini-Game.
     - [x] < 1:30 Royal Shield.  
     ![image](https://user-images.githubusercontent.com/33391637/226130712-9b523342-bd99-456a-9486-f1b19b60a2ec.png)
@@ -73,6 +88,7 @@
 - [x] Optional: Obtain and fully upgrade one of every type of Armor.
     - [x] Ancient Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226196616-3a3a4e0c-bf23-453c-a616-4c7a9eea04c8.png)
+    - [x] Armor of the Wild.
     - [x] Barbarian Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226196577-5a5a0f22-5681-4976-b452-ace65714ff77.png)
     - [x] Climbing Set.  
@@ -95,21 +111,12 @@
     ![image](https://user-images.githubusercontent.com/33391637/226197317-86a76ba4-9e6e-4d12-a165-7f4204710c80.png)
     - [x] Zora Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226197170-192b70bc-ffe4-43de-901b-e559a176b3ce.png)
-    - [x] Armor of the Wild.
 - [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.
     - [x] Creatures.  
     ![image](https://user-images.githubusercontent.com/33391637/226194945-c928fecc-0f55-4e1f-9508-1b53e0bbe857.png)  
     ![image](https://user-images.githubusercontent.com/33391637/226194950-60a13a34-9dce-4881-871c-449596642a72.png)  
     ![image](https://user-images.githubusercontent.com/33391637/226194959-533dd3aa-85b9-49e7-a50b-d2c87de26e5c.png)  
     ![image](https://user-images.githubusercontent.com/33391637/226194972-aa32c512-2dbc-4d0b-b69c-e25c3456b301.png)
-    - [x] Monsters.  
-    ![image](https://user-images.githubusercontent.com/33391637/226195124-953056d2-9ee1-4859-86f2-c28b212063a6.png)  
-    ![image](https://user-images.githubusercontent.com/33391637/226195132-a3b58876-7ce8-460c-9482-e73dbb30b357.png)  
-    ![image](https://user-images.githubusercontent.com/33391637/226195140-567646d8-3ee7-4cf4-8bc9-bb4a68b75b63.png)  
-    ![image](https://user-images.githubusercontent.com/33391637/226195143-1b93865e-fcba-4e0b-9095-a718c30c72d7.png)
-    - [x] Materials.  
-    ![image](https://user-images.githubusercontent.com/33391637/226195226-83200516-b7e3-4023-a347-3a46b8b41b5c.png)  
-    ![image](https://user-images.githubusercontent.com/33391637/226195232-598afd00-2576-4ffb-a7e5-29e733b2e874.png)
     - [x] Equipment.  
     ![image](https://user-images.githubusercontent.com/33391637/226195237-307d04e1-79bf-4bde-861e-1ef7f196054e.png)  
     ![image](https://user-images.githubusercontent.com/33391637/226195249-7ff7c00a-3a45-4396-a18a-eceb84f9578e.png)  
@@ -119,6 +126,14 @@
     ![image](https://user-images.githubusercontent.com/33391637/226195324-41dfb065-e5f8-430e-b1aa-2f903c01a801.png)  
     ![image](https://user-images.githubusercontent.com/33391637/226195364-475b362f-5e41-441c-9460-5d947a390e0c.png)  
     ![image](https://user-images.githubusercontent.com/33391637/226195371-28459f4b-947d-4eb8-ab2d-6d38e405b5c4.png)
+    - [x] Materials.  
+    ![image](https://user-images.githubusercontent.com/33391637/226195226-83200516-b7e3-4023-a347-3a46b8b41b5c.png)  
+    ![image](https://user-images.githubusercontent.com/33391637/226195232-598afd00-2576-4ffb-a7e5-29e733b2e874.png)
+    - [x] Monsters.  
+    ![image](https://user-images.githubusercontent.com/33391637/226195124-953056d2-9ee1-4859-86f2-c28b212063a6.png)  
+    ![image](https://user-images.githubusercontent.com/33391637/226195132-a3b58876-7ce8-460c-9482-e73dbb30b357.png)  
+    ![image](https://user-images.githubusercontent.com/33391637/226195140-567646d8-3ee7-4cf4-8bc9-bb4a68b75b63.png)  
+    ![image](https://user-images.githubusercontent.com/33391637/226195143-1b93865e-fcba-4e0b-9095-a718c30c72d7.png)
     - [x] Treasure.  
     ![image](https://user-images.githubusercontent.com/33391637/226195386-0e09a642-1d60-41d9-a35e-69ebdace3307.png)
 
@@ -134,8 +149,8 @@
 ![image](https://user-images.githubusercontent.com/33391637/226094929-b0fbe677-3684-42da-bef0-113448629a0b.png)
 - [x] Open all three additional Treasure Chests.
     - [x] Ja Baij Shrine - Nintendo Switch Shirt.
-    - [x] Oman Au Shrine - Ruby.
     - [x] Keh Namut Shrine - Five Bomb Arrows.
+    - [x] Oman Au Shrine - Ruby.
 
 ## The Master Trials
 
