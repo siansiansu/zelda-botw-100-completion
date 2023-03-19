@@ -54,22 +54,38 @@
     - [x] Trousers of the Wild.
     - [x] Thunder Helm.
 - [x] Obtain every shield reward from the Shield-Surfing Mini-Game.
-    - [x] < 1:30 Royal Shield  
+    - [x] < 1:30 Royal Shield.  
     ![image](https://user-images.githubusercontent.com/33391637/226130712-9b523342-bd99-456a-9486-f1b19b60a2ec.png)
-    - [x] 1:45-2:00 Knight's Shield
-    - [x] 2:00-2:15 Soldier's Shield
-    - [x] 2:15-2:30	Kite Shield  
+    - [x] 1:45-2:00 Knight's Shield.
+    - [x] 2:00-2:15 Soldier's Shield.
+    - [x] 2:15-2:30	Kite Shield.  
     ![image](https://user-images.githubusercontent.com/33391637/226130729-3a04826f-ddd4-484d-88e4-1c33fdd55b27.png)
-    - [x] 2:30-2:45	Traveler's Shield  
+    - [x] 2:30-2:45	Traveler's Shield.  
     ![image](https://user-images.githubusercontent.com/33391637/226194673-73a1efb2-d661-46d7-969e-484189c205a6.png)
-    - [x] 2:45-3:00	Fisherman's Shield
-    - [x] 3:00-3:15	Emblazoned Shield
-    - [x] 3:15-3:30	Hunter's Shield
-    - [x] > 3:30 Wooden Shield
+    - [x] 2:45-3:00	Fisherman's Shield.
+    - [x] 3:00-3:15	Emblazoned Shield.
+    - [x] 3:15-3:30	Hunter's Shield.
+    - [x] > 3:30 Wooden Shield.
 - [x] Optional: Light every Blue Flame Pedestal with Blue Flame.  
 ![image](https://user-images.githubusercontent.com/33391637/226126160-97f1ddd9-75b0-4bf6-a893-36e93729e923.png)
 - [x] Optional: Obtain all amiibo-exclusive gear.
 - [x] Optional: Obtain and fully upgrade one of every type of Armor.
+    - [x] Ancient Set.
+    - [x] Barbarian Set.
+    - [x] Climbing Set.
+    - [x] Dark Set.
+    - [x] Desert Voe Set.
+    - [x] Flamebreaker Set.
+    - [x] Gerudo Set.
+    - [x] Hylian Set.
+    - [x] Radiant Set.
+    - [x] Rubber Set.
+    - [x] Sheikah Set.
+    - [x] Snowquill Set.
+    - [x] Soldier's Set.
+    - [x] Worn Set.	
+    - [x] Zora Set.
+    - [x] Armor of the Wild.
 - [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.
     - [x] Creatures.
     ![image](https://user-images.githubusercontent.com/33391637/226194945-c928fecc-0f55-4e1f-9508-1b53e0bbe857.png)
