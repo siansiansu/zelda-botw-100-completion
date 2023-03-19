@@ -77,6 +77,10 @@
     ![image](https://user-images.githubusercontent.com/33391637/226194959-533dd3aa-85b9-49e7-a50b-d2c87de26e5c.png)
     ![image](https://user-images.githubusercontent.com/33391637/226194972-aa32c512-2dbc-4d0b-b69c-e25c3456b301.png)
     - [x] Monsters.
+    ![image](https://user-images.githubusercontent.com/33391637/226195124-953056d2-9ee1-4859-86f2-c28b212063a6.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195132-a3b58876-7ce8-460c-9482-e73dbb30b357.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195140-567646d8-3ee7-4cf4-8bc9-bb4a68b75b63.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195143-1b93865e-fcba-4e0b-9095-a718c30c72d7.png)
     - [x] Materials.
     - [x] Equipment.
     - [x] Treasure.
