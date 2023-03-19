@@ -82,8 +82,20 @@
     ![image](https://user-images.githubusercontent.com/33391637/226195140-567646d8-3ee7-4cf4-8bc9-bb4a68b75b63.png)
     ![image](https://user-images.githubusercontent.com/33391637/226195143-1b93865e-fcba-4e0b-9095-a718c30c72d7.png)
     - [x] Materials.
+    ![image](https://user-images.githubusercontent.com/33391637/226195226-83200516-b7e3-4023-a347-3a46b8b41b5c.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195232-598afd00-2576-4ffb-a7e5-29e733b2e874.png)
     - [x] Equipment.
+    ![image](https://user-images.githubusercontent.com/33391637/226195237-307d04e1-79bf-4bde-861e-1ef7f196054e.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195249-7ff7c00a-3a45-4396-a18a-eceb84f9578e.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195303-91b262e4-854e-4707-927f-c0e43dd827d2.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195310-c056378d-895d-4a71-91c9-50b8700dd1a1.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195317-ac64f83a-4e25-4bb8-88c8-a349ee61d364.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195324-41dfb065-e5f8-430e-b1aa-2f903c01a801.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195364-475b362f-5e41-441c-9460-5d947a390e0c.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226195371-28459f4b-947d-4eb8-ab2d-6d38e405b5c4.png)
     - [x] Treasure.
+    ![image](https://user-images.githubusercontent.com/33391637/226195386-0e09a642-1d60-41d9-a35e-69ebdace3307.png)
+
 - [x] Reveal all skills in the Ability Controls Menu.
 - [x] Search every dead Guardian and abandoned Wagon.
 - [x] Speak to every Character at least once to register their name.
