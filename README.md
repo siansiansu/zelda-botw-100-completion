@@ -63,6 +63,7 @@
     - [x] 2:30-2:45	Traveler's Shield.  
     ![image](https://user-images.githubusercontent.com/33391637/226194673-73a1efb2-d661-46d7-969e-484189c205a6.png)
     - [x] 2:45-3:00	Fisherman's Shield.
+    ![image](https://user-images.githubusercontent.com/33391637/226196487-ec29f739-b523-4f88-ae07-490fd2bfa2d1.png)
     - [x] 3:00-3:15	Emblazoned Shield.
     - [x] 3:15-3:30	Hunter's Shield.
     - [x] > 3:30 Wooden Shield.
@@ -71,8 +72,11 @@
 - [x] Optional: Obtain all amiibo-exclusive gear.
 - [x] Optional: Obtain and fully upgrade one of every type of Armor.
     - [x] Ancient Set.
+    ![image](https://user-images.githubusercontent.com/33391637/226196616-3a3a4e0c-bf23-453c-a616-4c7a9eea04c8.png)
     - [x] Barbarian Set.
+    ![image](https://user-images.githubusercontent.com/33391637/226196577-5a5a0f22-5681-4976-b452-ace65714ff77.png)
     - [x] Climbing Set.
+    ![image](https://user-images.githubusercontent.com/33391637/226196505-876aab87-45be-4349-bde4-c6d10a4a1985.png)
     - [x] Dark Set.
     - [x] Desert Voe Set.
     - [x] Flamebreaker Set.
