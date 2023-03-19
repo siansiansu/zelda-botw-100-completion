@@ -1,4 +1,4 @@
-# The 100% Breath of the Wild Guide
+# The 100 Percent Completion Checklist in The Legend of Zelda: Breath of the Wild
 
 - [x] Activate all 15 Sheikah Towers.
     - [x] Akkala Tower
