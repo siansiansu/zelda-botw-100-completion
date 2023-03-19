@@ -72,6 +72,10 @@
 - [x] Optional: Obtain and fully upgrade one of every type of Armor.
 - [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.
     - [x] Creatures.
+    ![image](https://user-images.githubusercontent.com/33391637/226194945-c928fecc-0f55-4e1f-9508-1b53e0bbe857.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226194950-60a13a34-9dce-4881-871c-449596642a72.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226194959-533dd3aa-85b9-49e7-a50b-d2c87de26e5c.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226194972-aa32c512-2dbc-4d0b-b69c-e25c3456b301.png)
     - [x] Monsters.
     - [x] Materials.
     - [x] Equipment.
