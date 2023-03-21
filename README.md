@@ -91,30 +91,35 @@
 - [x] Optional: Obtain all amiibo-exclusive gear.
 - [x] Optional: Obtain and fully upgrade one of every type of Armor.
     - [x] Ancient Set.  
-    ![image](https://user-images.githubusercontent.com/33391637/226196616-3a3a4e0c-bf23-453c-a616-4c7a9eea04c8.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226701008-cdd17212-f193-49e7-8dc5-ad2248131d0c.png)
     - [x] Armor of the Wild.
+    ![image](https://user-images.githubusercontent.com/33391637/226701095-1263d920-857d-4cb7-b5b2-4c8218a1a6c8.png)
     - [x] Barbarian Set.  
-    ![image](https://user-images.githubusercontent.com/33391637/226196577-5a5a0f22-5681-4976-b452-ace65714ff77.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226701176-ae041836-f81d-468a-ba1a-5a66585ab508.png)
     - [x] Climbing Set.  
-    ![image](https://user-images.githubusercontent.com/33391637/226196505-876aab87-45be-4349-bde4-c6d10a4a1985.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226701227-d9958116-7023-4b3e-9223-f8915090e65f.png)
     - [x] Dark Set.
+    ![image](https://user-images.githubusercontent.com/33391637/226701285-3f22cce6-5fe5-42eb-9d47-88b698caccb2.png)
     - [x] Desert Voe Set.  
-    ![image](https://user-images.githubusercontent.com/33391637/226197163-a618c6ee-d9f3-44a0-99e6-207fa23b524a.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226702424-49394050-8e46-4e4e-8635-4034794252be.png)
     - [x] Flamebreaker Set.
+    ![image](https://user-images.githubusercontent.com/33391637/226702332-118010b2-6fd8-48cb-a3eb-7ec0faecf398.png)
     - [x] Gerudo Set.
+    ![image](https://user-images.githubusercontent.com/33391637/226702471-7fbe53e4-2966-48c7-9cdb-4ab5d22848f0.png)
     - [x] Hylian Set.  
-    ![image](https://user-images.githubusercontent.com/33391637/226197302-fd96a5ae-fb64-4dd4-8864-abebd17a5950.png)
     - [x] Radiant Set.
+    ![image](https://user-images.githubusercontent.com/33391637/226701609-11ba0c3c-6107-4b19-958d-e3a9b530a0a2.png)
     - [x] Rubber Set.
+    ![image](https://user-images.githubusercontent.com/33391637/226701710-9aeb7950-e07b-407b-b9de-9f44871e4da1.png)
     - [x] Sheikah Set.  
-    ![image](https://user-images.githubusercontent.com/33391637/226197181-2c4a443c-6c2a-420d-a393-ecab9cce3329.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226701843-59a2cae4-9fcb-4285-a2cc-95a62d1e9517.png)
     - [x] Snowquill Set.
+   ![image](https://user-images.githubusercontent.com/33391637/226702618-b294a3b2-bbf9-40a0-bc25-b85a863571ae.png)
     - [x] Soldier's Set.  
-    ![image](https://user-images.githubusercontent.com/33391637/226197293-769603ba-9003-454a-8ef1-1fa0d800a223.png)
     - [x] Worn Set.  
-    ![image](https://user-images.githubusercontent.com/33391637/226197317-86a76ba4-9e6e-4d12-a165-7f4204710c80.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226702530-5c71ebb5-42e1-404c-afa1-7ef302628a02.png)
     - [x] Zora Set.  
-    ![image](https://user-images.githubusercontent.com/33391637/226197170-192b70bc-ffe4-43de-901b-e559a176b3ce.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226702026-43ba02c6-0a8e-4c13-891c-28acfd780a96.png)
 - [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.
     - [x] Creatures.  
     ![image](https://user-images.githubusercontent.com/33391637/226194945-c928fecc-0f55-4e1f-9508-1b53e0bbe857.png)  
