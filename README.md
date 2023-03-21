@@ -66,7 +66,9 @@
 - [x] Obtain and fully upgrade all non-sellable Armor.
     - [x] Cap of the Wild.
     - [x] The Champion's Tunic.
+    ![image](https://user-images.githubusercontent.com/33391637/226704231-bcf5cee9-9945-4941-97cd-7f889b6461c5.png)
     - [x] Thunder Helm.
+    ![image](https://user-images.githubusercontent.com/33391637/226704116-3a42596c-6c87-45b3-adce-e8dacbcd6f29.png)
     - [x] Trousers of the Wild.
     - [x] Tunic of the Wild.
     - [x] Zora Armor.
@@ -106,7 +108,8 @@
     ![image](https://user-images.githubusercontent.com/33391637/226702332-118010b2-6fd8-48cb-a3eb-7ec0faecf398.png)
     - [x] Gerudo Set.
     ![image](https://user-images.githubusercontent.com/33391637/226702471-7fbe53e4-2966-48c7-9cdb-4ab5d22848f0.png)
-    - [x] Hylian Set.  
+    - [x] Hylian Set. 
+    ![image](https://user-images.githubusercontent.com/33391637/226704185-44440fb1-4df3-4b3f-a5ad-d797efc3a15b.png)
     - [x] Radiant Set.
     ![image](https://user-images.githubusercontent.com/33391637/226701609-11ba0c3c-6107-4b19-958d-e3a9b530a0a2.png)
     - [x] Rubber Set.
@@ -147,6 +150,7 @@
     ![image](https://user-images.githubusercontent.com/33391637/226195386-0e09a642-1d60-41d9-a35e-69ebdace3307.png)
 
 - [x] Reveal all skills in the Ability Controls Menu.
+![image](https://user-images.githubusercontent.com/33391637/226704365-55caeee5-d09b-44d4-a3e1-1d5c7520be7d.png)
 - [x] Search every dead Guardian and abandoned Wagon.
 - [x] Speak to every Character at least once to register their name.
 
