@@ -118,6 +118,7 @@
     - [x] Majora's Mask
     - [x] Midna's Helmet
     - [x] Phantom Set.
+    ![image](https://user-images.githubusercontent.com/33391637/226875021-47395ebd-6372-4b15-95b4-84ec10ccd3ab.png)
     - [x] Radiant Set.
     ![image](https://user-images.githubusercontent.com/33391637/226701609-11ba0c3c-6107-4b19-958d-e3a9b530a0a2.png)
     - [x] Ravio's Hood
@@ -130,7 +131,8 @@
     - [x] Snowquill Set.
    ![image](https://user-images.githubusercontent.com/33391637/226702618-b294a3b2-bbf9-40a0-bc25-b85a863571ae.png)
     - [x] Soldier's Set. 
-    - [x] Tingle's Outfit
+    - [x] Tingle's Outfit.
+    ![image](https://user-images.githubusercontent.com/33391637/226874812-deb41c6a-164f-47c4-9e81-70efc4392aef.png)
     - [x] Worn Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226702530-5c71ebb5-42e1-404c-afa1-7ef302628a02.png)
     - [x] Zant's Helmet
