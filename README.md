@@ -186,6 +186,13 @@
 ![image](https://user-images.githubusercontent.com/33391637/226093804-a0986959-b58a-491f-9aac-b0f4a9052316.png)
 - [x] Complete the seven additional Side Quests.  
 ![image](https://user-images.githubusercontent.com/33391637/226094519-ba331632-fde9-4049-b60a-880d7dabce6c.png)
+    - [x] EX Trial of the Sword	
+    - [x] EX Strange Mask Rumors
+    - [x] EX Teleportation Rumors!
+    - [x] EX Treasure: Ancient Mask
+    - [x] EX Treasure: Fairy Clothes
+    - [x] EX Treasure: Twilight Relic
+    - [x] EX Treasure: Phantasma
 
 ## Xenoblade Chronicles 2
 
@@ -198,6 +205,17 @@
 
 - [x] Complete all five additional Main Quests.  
 ![image](https://user-images.githubusercontent.com/33391637/226096618-1c57bdc5-37a8-4ecb-b0a4-360eb822be06.png)
+    - [x] EX The Champions' Ballad
+    - [x] EX Champion Mipha's Song
+    - [x] EX Champion Daruk's Song
+    - [x] EX Champion Revali's Song
+    - [x] EX Champion Urbosa's Song
 - [x] Complete all six additional Side Quests.  
+    - [x] EX Ancient Horse Rumors
+    - [x] EX EX Royal Guard Rumors
+    - [x] EX EX Treasure: Merchant Hood
+    - [x] EX EX Treasure: Garb of the Winds
+    - [x] EX EX Treasure: Usurper King
+    - [x] EX EX Treasure: Dark Armor
 - [x] Place the Picture of the Champions in Link's House.  
 ![image](https://user-images.githubusercontent.com/33391637/226096420-72759022-2bd6-4baf-b164-7c3f18a62f57.png)
