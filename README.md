@@ -86,8 +86,11 @@
     - [x] 2:45-3:00	Fisherman's Shield.  
     ![image](https://user-images.githubusercontent.com/33391637/226196487-ec29f739-b523-4f88-ae07-490fd2bfa2d1.png)
     - [x] 3:00-3:15	Emblazoned Shield.
+    ![image](https://user-images.githubusercontent.com/33391637/226869024-ce8bf5b9-a168-4aea-87d7-6d1582341d10.png)
     - [x] 3:15-3:30	Hunter's Shield.
+    ![image](https://user-images.githubusercontent.com/33391637/226869093-472094d1-2743-445e-90c6-dc9576111a17.png)
     - [x] > 3:30 Wooden Shield.
+    ![image](https://user-images.githubusercontent.com/33391637/226869060-3543d7ec-a5be-4a65-89e9-b33f78dac1a9.png)
 - [x] Optional: Light every Blue Flame Pedestal with Blue Flame.  
 ![image](https://user-images.githubusercontent.com/33391637/226126160-97f1ddd9-75b0-4bf6-a893-36e93729e923.png)
 - [x] Optional: Obtain all amiibo-exclusive gear.
