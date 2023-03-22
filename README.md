@@ -113,17 +113,27 @@
     ![image](https://user-images.githubusercontent.com/33391637/226702471-7fbe53e4-2966-48c7-9cdb-4ab5d22848f0.png)
     - [x] Hylian Set. 
     ![image](https://user-images.githubusercontent.com/33391637/226704185-44440fb1-4df3-4b3f-a5ad-d797efc3a15b.png)
+    - [x] Island Lobster Shirt
+    - [x] Korok Mask
+    - [x] Majora's Mask
+    - [x] Midna's Helmet
+    - [x] Phantom Set.
     - [x] Radiant Set.
     ![image](https://user-images.githubusercontent.com/33391637/226701609-11ba0c3c-6107-4b19-958d-e3a9b530a0a2.png)
+    - [x] Ravio's Hood
+    - [x] Royal Guard Set.
     - [x] Rubber Set.
     ![image](https://user-images.githubusercontent.com/33391637/226701710-9aeb7950-e07b-407b-b9de-9f44871e4da1.png)
+    - [x] Salvager's Set
     - [x] Sheikah Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701843-59a2cae4-9fcb-4285-a2cc-95a62d1e9517.png)
     - [x] Snowquill Set.
    ![image](https://user-images.githubusercontent.com/33391637/226702618-b294a3b2-bbf9-40a0-bc25-b85a863571ae.png)
-    - [x] Soldier's Set.  
+    - [x] Soldier's Set. 
+    - [x] Tingle's Outfit
     - [x] Worn Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226702530-5c71ebb5-42e1-404c-afa1-7ef302628a02.png)
+    - [x] Zant's Helmet
     - [x] Zora Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226702026-43ba02c6-0a8e-4c13-891c-28acfd780a96.png)
 - [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.
