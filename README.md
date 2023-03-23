@@ -134,14 +134,19 @@
     - [x] Hylian Set. 
     ![image](https://user-images.githubusercontent.com/33391637/226704185-44440fb1-4df3-4b3f-a5ad-d797efc3a15b.png)
     - [x] Island Lobster Shirt
+    ![image](https://user-images.githubusercontent.com/33391637/227285424-ae4f0bc3-d073-4051-88c8-d34dbf321e52.png)
     - [x] Korok Mask
+    ![image](https://user-images.githubusercontent.com/33391637/227284296-8cb8e2dc-d3c9-408b-95d5-839fdfe8c02b.png)
     - [x] Majora's Mask
+    ![image](https://user-images.githubusercontent.com/33391637/227285160-2ab5cc65-290b-4dec-bac4-4e54f18338d6.png)
     - [x] Midna's Helmet
+    ![image](https://user-images.githubusercontent.com/33391637/227284593-b92a6073-ac8d-466e-b2f3-a34ee71d2c60.png)
     - [x] Phantom Set.
     ![image](https://user-images.githubusercontent.com/33391637/226875021-47395ebd-6372-4b15-95b4-84ec10ccd3ab.png)
     - [x] Radiant Set.
     ![image](https://user-images.githubusercontent.com/33391637/226701609-11ba0c3c-6107-4b19-958d-e3a9b530a0a2.png)
     - [x] Ravio's Hood
+    ![image](https://user-images.githubusercontent.com/33391637/227285202-afea9410-5b55-4512-9770-ce3468e9c82e.png)
     - [x] Royal Guard Set.
     ![image](https://user-images.githubusercontent.com/33391637/227140752-f233a251-e6d9-43fa-a0ad-5ecdbaf830a2.png)
     - [x] Rubber Set.
@@ -159,6 +164,7 @@
     - [x] Worn Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226702530-5c71ebb5-42e1-404c-afa1-7ef302628a02.png)
     - [x] Zant's Helmet
+    ![image](https://user-images.githubusercontent.com/33391637/227284806-9516ae07-de01-4172-8da4-c0ab24c4a8c3.png)
     - [x] Zora Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226702026-43ba02c6-0a8e-4c13-891c-28acfd780a96.png)
 - [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.
