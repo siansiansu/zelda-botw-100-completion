@@ -123,14 +123,17 @@
     ![image](https://user-images.githubusercontent.com/33391637/226701609-11ba0c3c-6107-4b19-958d-e3a9b530a0a2.png)
     - [x] Ravio's Hood
     - [x] Royal Guard Set.
+    ![image](https://user-images.githubusercontent.com/33391637/227140752-f233a251-e6d9-43fa-a0ad-5ecdbaf830a2.png)
     - [x] Rubber Set.
     ![image](https://user-images.githubusercontent.com/33391637/226701710-9aeb7950-e07b-407b-b9de-9f44871e4da1.png)
     - [x] Salvager's Set
+    ![image](https://user-images.githubusercontent.com/33391637/227140919-859c1bcf-913a-4acd-b2cc-05b2175120a2.png)
     - [x] Sheikah Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701843-59a2cae4-9fcb-4285-a2cc-95a62d1e9517.png)
     - [x] Snowquill Set.
-   ![image](https://user-images.githubusercontent.com/33391637/226702618-b294a3b2-bbf9-40a0-bc25-b85a863571ae.png)
+    ![image](https://user-images.githubusercontent.com/33391637/226702618-b294a3b2-bbf9-40a0-bc25-b85a863571ae.png)
     - [x] Soldier's Set. 
+    ![image](https://user-images.githubusercontent.com/33391637/227140841-06bd6941-5bd1-4960-9acc-ce51044d5350.png)
     - [x] Tingle's Outfit.
     ![image](https://user-images.githubusercontent.com/33391637/226874812-deb41c6a-164f-47c4-9e81-70efc4392aef.png)
     - [x] Worn Set.  
@@ -185,8 +188,8 @@
 - [x] 100% complete both Normal and Master Mode.  
 ![image](https://user-images.githubusercontent.com/33391637/226093804-a0986959-b58a-491f-9aac-b0f4a9052316.png)
 - [x] Complete the seven additional Side Quests.  
-![image](https://user-images.githubusercontent.com/33391637/226094519-ba331632-fde9-4049-b60a-880d7dabce6c.png)
     - [x] EX Trial of the Sword	
+    ![image](https://user-images.githubusercontent.com/33391637/226094519-ba331632-fde9-4049-b60a-880d7dabce6c.png)
     - [x] EX Strange Mask Rumors
     - [x] EX Teleportation Rumors!
     - [x] EX Treasure: Ancient Mask
@@ -198,8 +201,6 @@
 
 - [x] Complete the additional Side Quest.  
 ![image](https://user-images.githubusercontent.com/33391637/226096626-19569e14-11ef-4c6a-abd8-dc2313ed1be9.png)
-    - [x] Obtain Xenoblade Chronicles 2 Armor  
-    ![image](https://user-images.githubusercontent.com/33391637/226096003-fb1bbfc8-44ee-46cc-b4f5-ac9bced30cf5.png)
 
 ## The Champions' Ballad
 
