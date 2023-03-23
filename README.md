@@ -91,6 +91,26 @@
     ![image](https://user-images.githubusercontent.com/33391637/226869093-472094d1-2743-445e-90c6-dc9576111a17.png)
     - [x] > 3:30 Wooden Shield.
     ![image](https://user-images.githubusercontent.com/33391637/226869060-3543d7ec-a5be-4a65-89e9-b33f78dac1a9.png)
+- [x] Optional: Complete all of glitches.
+    - [x] Bow Spin (October 28th, 2017).
+    - [x] Bullet Time Bounce (August 18th, 2018).
+    - [x] Cutscene Damage / Boss Skip (November 7th, 2019).
+    - [x] Daruk's Perfect Parry (May 25th, 2017).
+    - [x] Dynamic Object Glitch (April 29th, 2019).
+    - [x] Fall Damage Cancel (March 20th, 2017).
+    - [x] Flying Machine (March 30th, 2017).
+    - [x] Lizalfos / Hinox / Boomerang Curse (September 11th, 2020).
+    - [x] Memory Storage (December 10th, 2020).
+    - [x] Menu Overload (May 8th, 2017).
+    - [x] Moon Jump (July 8th, 2019).
+    - [x] Shield Block Reset (March 10th, 2017).
+    - [x] Shield Clip / Skews (March 5th, 2017).
+    - [x] Shrine Apparatus Storage (March 22th, 2019).
+    - [x] Stasis Launching (March 8th, 2017).
+    - [x] Super Launch (March 23rd, 2017).
+    - [x] Thunderclap Rush (February 10th, 2020).
+    - [x] Whistle Sprinting (March 3rd, 2017).
+    - [x] Wind Bomb (September 5th, 2019).
 - [x] Optional: Light every Blue Flame Pedestal with Blue Flame.  
 ![image](https://user-images.githubusercontent.com/33391637/226126160-97f1ddd9-75b0-4bf6-a893-36e93729e923.png)
 - [x] Optional: Obtain all amiibo-exclusive gear.
