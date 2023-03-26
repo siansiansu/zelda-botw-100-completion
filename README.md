@@ -92,11 +92,14 @@
     - [x] > 3:30 Wooden Shield.
     ![image](https://user-images.githubusercontent.com/33391637/226869060-3543d7ec-a5be-4a65-89e9-b33f78dac1a9.png)
 - [x] Optional: Complete all of glitches.
+    - [x] Bomb Sliding.
     - [x] Bow Spin.
     - [x] Bullet Time Bounce.
+    - [x] Bullet Time Momentum Amplification.
     - [x] Cutscene Damage / Boss Skip.
     - [x] Daruk's Perfect Parry.
     - [x] Dynamic Object Glitch.
+    - [x] Extended Shield Clipping.
     - [x] Fall Damage Cancel.
     - [x] Flying Machine.
     - [x] Lizalfos / Hinox / Boomerang Curse.
@@ -104,11 +107,16 @@
     - [x] Menu Overload.
     - [x] Moon Jump.
     - [x] Shield Block Reset.
+    - [x] Shield Bounce Ashore.
     - [x] Shield Clip / Skews.
     - [x] Shrine Apparatus Storage.
+    - [x] Skew Bounce.
+    - [x] Spin Ragdoll Bounce.
+    - [x] Spin Shield Ragdoll.
     - [x] Stasis Launching.
     - [x] Super Launch.
     - [x] Thunderclap Rush.
+    - [x] Vertical Bomb Jump.
     - [x] Whistle Sprinting.
     - [x] Wind Bomb.
 - [x] Optional: Light every Blue Flame Pedestal with Blue Flame.  
