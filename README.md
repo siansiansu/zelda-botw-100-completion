@@ -123,18 +123,22 @@
 ![image](https://user-images.githubusercontent.com/33391637/226126160-97f1ddd9-75b0-4bf6-a893-36e93729e923.png)
 - [x] Optional: Obtain all amiibo-exclusive gear.
 - [x] Optional: Obtain and fully upgrade one of every type of Armor.
+    - [x] Amber Earrings	
     - [x] Ancient Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701008-cdd17212-f193-49e7-8dc5-ad2248131d0c.png)
     - [x] Armor of the Wild.
     ![image](https://user-images.githubusercontent.com/33391637/226701095-1263d920-857d-4cb7-b5b2-4c8218a1a6c8.png)
     - [x] Barbarian Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701176-ae041836-f81d-468a-ba1a-5a66585ab508.png)
+    - [x] Bokoblin Mask	
+    - [x] Champion's Tunic	    
     - [x] Climbing Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701227-d9958116-7023-4b3e-9223-f8915090e65f.png)
     - [x] Dark Set.
     ![image](https://user-images.githubusercontent.com/33391637/226701285-3f22cce6-5fe5-42eb-9d47-88b698caccb2.png)
     - [x] Desert Voe Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226702424-49394050-8e46-4e4e-8635-4034794252be.png)
+    - [x] Diamond Circlet
     - [x] Flamebreaker Set.
     ![image](https://user-images.githubusercontent.com/33391637/226702332-118010b2-6fd8-48cb-a3eb-7ec0faecf398.png)
     - [x] Gerudo Set.
@@ -145,10 +149,14 @@
     ![image](https://user-images.githubusercontent.com/33391637/227285424-ae4f0bc3-d073-4051-88c8-d34dbf321e52.png)
     - [x] Korok Mask
     ![image](https://user-images.githubusercontent.com/33391637/227284296-8cb8e2dc-d3c9-408b-95d5-839fdfe8c02b.png)
+    - [x] Lizalfos Mask	
+    - [x] Lynel Mask	    
     - [x] Majora's Mask
     ![image](https://user-images.githubusercontent.com/33391637/227285160-2ab5cc65-290b-4dec-bac4-4e54f18338d6.png)
     - [x] Midna's Helmet
     ![image](https://user-images.githubusercontent.com/33391637/227284593-b92a6073-ac8d-466e-b2f3-a34ee71d2c60.png)
+    - [x] Moblin Mask
+    - [x] Opal Earrings    
     - [x] Phantom Set.
     ![image](https://user-images.githubusercontent.com/33391637/226875021-47395ebd-6372-4b15-95b4-84ec10ccd3ab.png)
     - [x] Radiant Set.
@@ -159,16 +167,23 @@
     ![image](https://user-images.githubusercontent.com/33391637/227140752-f233a251-e6d9-43fa-a0ad-5ecdbaf830a2.png)
     - [x] Rubber Set.
     ![image](https://user-images.githubusercontent.com/33391637/226701710-9aeb7950-e07b-407b-b9de-9f44871e4da1.png)
+    - [x] Ruby Circlet	    
     - [x] Salvager's Set
     ![image](https://user-images.githubusercontent.com/33391637/227140919-859c1bcf-913a-4acd-b2cc-05b2175120a2.png)
+    - [x] Sand Boots	
+    - [x] Sapphire Circlet    
     - [x] Sheikah Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701843-59a2cae4-9fcb-4285-a2cc-95a62d1e9517.png)
+    - [x] Snow Boots	    
     - [x] Snowquill Set.
     ![image](https://user-images.githubusercontent.com/33391637/226702618-b294a3b2-bbf9-40a0-bc25-b85a863571ae.png)
     - [x] Soldier's Set. 
     ![image](https://user-images.githubusercontent.com/33391637/227140841-06bd6941-5bd1-4960-9acc-ce51044d5350.png)
+    - [x] Thunder Helm    
     - [x] Tingle's Outfit.
     ![image](https://user-images.githubusercontent.com/33391637/226874812-deb41c6a-164f-47c4-9e81-70efc4392aef.png)
+    - [x] Topaz Earrings
+    - [x] Warm Doublet	
     - [x] Worn Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226702530-5c71ebb5-42e1-404c-afa1-7ef302628a02.png)
     - [x] Zant's Helmet
