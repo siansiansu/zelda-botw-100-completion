@@ -6,15 +6,20 @@
     - [x] Dueling Peaks Tower
     - [x] Eldin Tower
     - [x] Faron Tower
+    ![image](https://user-images.githubusercontent.com/33391637/227838446-89730365-9216-4451-8ad9-b05160faba65.png)
     - [x] Gerudo Tower
+    ![image](https://user-images.githubusercontent.com/33391637/227838488-62804905-345a-4f2e-9879-e9e34e7e9631.png)
     - [x] Great Plateu Tower
     - [x] Hateno Tower
     - [x] Hebra Tower
     - [x] Lake Tower
+    ![image](https://user-images.githubusercontent.com/33391637/227838672-cce0bd11-3d13-471c-8549-e7a0d2dc6a22.png)
     - [x] Lanaryu Tower
     - [x] Ridgeland Tower
+    - [x] Ridgeland Tower
     - [x] Tabantha Tower
-    - [x] Wastelands Tower
+    - [x] Wasteland Tower
+    ![image](https://user-images.githubusercontent.com/33391637/227838511-e6c09af2-50e3-4955-ab5a-fb2f989a0159.png)    
     - [x] Woodland Tower
 - [x] Complete all 15 Main Quests (excluding "Destroy Ganon").  
 ![image](https://user-images.githubusercontent.com/33391637/226093730-b85f93fb-7be4-4458-b123-18ca40581d8b.png)
