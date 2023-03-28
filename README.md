@@ -171,7 +171,8 @@
     - [x] Midna's Helmet
     ![image](https://user-images.githubusercontent.com/33391637/227284593-b92a6073-ac8d-466e-b2f3-a34ee71d2c60.png)
     - [x] Moblin Mask
-    - [x] Opal Earrings    
+    - [x] Opal Earrings
+    ![image](https://user-images.githubusercontent.com/33391637/228182527-5dde6973-b5ea-40a7-bd0f-217b39e29ce2.png)
     - [x] Phantom Set.
     ![image](https://user-images.githubusercontent.com/33391637/226875021-47395ebd-6372-4b15-95b4-84ec10ccd3ab.png)
     - [x] Radiant Set.
@@ -182,11 +183,13 @@
     ![image](https://user-images.githubusercontent.com/33391637/227140752-f233a251-e6d9-43fa-a0ad-5ecdbaf830a2.png)
     - [x] Rubber Set.
     ![image](https://user-images.githubusercontent.com/33391637/226701710-9aeb7950-e07b-407b-b9de-9f44871e4da1.png)
-    - [x] Ruby Circlet	    
+    - [x] Ruby Circlet
+    ![image](https://user-images.githubusercontent.com/33391637/228184120-eb48eefa-ad25-4f49-aac4-c2d45ee957eb.png)	    
     - [x] Salvager's Set
     ![image](https://user-images.githubusercontent.com/33391637/227140919-859c1bcf-913a-4acd-b2cc-05b2175120a2.png)
     - [x] Sand Boots	
     - [x] Sapphire Circlet    
+    ![image](https://user-images.githubusercontent.com/33391637/228184225-7857f4cf-413e-49f9-80a7-db4c656380ae.png)
     - [x] Sheikah Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701843-59a2cae4-9fcb-4285-a2cc-95a62d1e9517.png)
     - [x] Snow Boots	    
@@ -199,6 +202,7 @@
     - [x] Tingle's Outfit.
     ![image](https://user-images.githubusercontent.com/33391637/226874812-deb41c6a-164f-47c4-9e81-70efc4392aef.png)
     - [x] Topaz Earrings
+    ![image](https://user-images.githubusercontent.com/33391637/228182996-8c686267-386f-42a2-b2f5-31786193de43.png)
     - [x] Warm Doublet	
     - [x] Worn Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226702530-5c71ebb5-42e1-404c-afa1-7ef302628a02.png)
