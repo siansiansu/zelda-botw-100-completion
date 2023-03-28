@@ -145,7 +145,8 @@
     ![image](https://user-images.githubusercontent.com/33391637/226701095-1263d920-857d-4cb7-b5b2-4c8218a1a6c8.png)
     - [x] Barbarian Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701176-ae041836-f81d-468a-ba1a-5a66585ab508.png)
-    - [x] Bokoblin Mask	
+    - [x] Bokoblin Mask
+    ![image](https://user-images.githubusercontent.com/33391637/228308375-e1714094-c7da-4058-8cdc-a291ff04ce39.png)
     - [x] Champion's Tunic	 
     ![image](https://user-images.githubusercontent.com/33391637/228187583-9d429d5b-94fa-42c4-9276-b6553d682270.png)
     - [x] Climbing Set.  
@@ -166,13 +167,16 @@
     ![image](https://user-images.githubusercontent.com/33391637/227285424-ae4f0bc3-d073-4051-88c8-d34dbf321e52.png)
     - [x] Korok Mask
     ![image](https://user-images.githubusercontent.com/33391637/227284296-8cb8e2dc-d3c9-408b-95d5-839fdfe8c02b.png)
-    - [x] Lizalfos Mask	
+    - [x] Lizalfos Mask
+    ![image](https://user-images.githubusercontent.com/33391637/228308171-9dbfbe88-4d19-4422-94a7-0a7209ef4ba4.png)
     - [x] Lynel Mask	    
+    ![image](https://user-images.githubusercontent.com/33391637/228308194-cdff11eb-2124-453c-b64e-46782f9e02c4.png)
     - [x] Majora's Mask
     ![image](https://user-images.githubusercontent.com/33391637/227285160-2ab5cc65-290b-4dec-bac4-4e54f18338d6.png)
     - [x] Midna's Helmet
     ![image](https://user-images.githubusercontent.com/33391637/227284593-b92a6073-ac8d-466e-b2f3-a34ee71d2c60.png)
     - [x] Moblin Mask
+    ![image](https://user-images.githubusercontent.com/33391637/228308241-d1987fbf-585c-4258-96bf-4c4c8945d4b0.png)    
     - [x] Opal Earrings
     ![image](https://user-images.githubusercontent.com/33391637/228182527-5dde6973-b5ea-40a7-bd0f-217b39e29ce2.png)
     - [x] Phantom Set.
