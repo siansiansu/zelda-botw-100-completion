@@ -2,7 +2,9 @@
 
 - [x] Activate all 15 Sheikah Towers.
     - [x] Akkala Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228180416-88f8765d-26e0-4a98-aa96-d53bcfd84392.png)
     - [x] Central Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228180389-9a84d950-bd0c-4642-8888-3a590f4090d0.png)
     - [x] Dueling Peaks Tower
     ![image](https://user-images.githubusercontent.com/33391637/228179107-98a0a228-d66e-4f37-afaf-79a0a415c1c1.png)
     - [x] Eldin Tower
@@ -16,15 +18,19 @@
     - [x] Hateno Tower
     ![image](https://user-images.githubusercontent.com/33391637/228179011-76ef4b82-49b1-4a49-a2e5-fa748925ae19.png)
     - [x] Hebra Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228180174-90fbd9b2-1fa1-406c-82b0-730e17be80e8.png)
     - [x] Lake Tower
     ![image](https://user-images.githubusercontent.com/33391637/227838672-cce0bd11-3d13-471c-8549-e7a0d2dc6a22.png)
     - [x] Lanaryu Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228180099-ac617921-c53d-405a-9ce1-43ea464a04b1.png)
     - [x] Ridgeland Tower
-    - [x] Ridgeland Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228180068-05cf2067-de78-428a-af56-22e61e599f15.png)
     - [x] Tabantha Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228179925-5fd2310d-b347-44c8-859d-7311ea9a7365.png)
     - [x] Wasteland Tower
     ![image](https://user-images.githubusercontent.com/33391637/227838511-e6c09af2-50e3-4955-ab5a-fb2f989a0159.png)    
     - [x] Woodland Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228180654-cf895326-5265-4484-a07b-f482377f6fd3.png)
 - [x] Complete all 15 Main Quests (excluding "Destroy Ganon").  
 ![image](https://user-images.githubusercontent.com/33391637/226093730-b85f93fb-7be4-4458-b123-18ca40581d8b.png)
 - [x] Complete all 42 Shrine Quests.  
