@@ -4,13 +4,17 @@
     - [x] Akkala Tower
     - [x] Central Tower
     - [x] Dueling Peaks Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228179107-98a0a228-d66e-4f37-afaf-79a0a415c1c1.png)
     - [x] Eldin Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228179079-4bcd5da5-42d9-4ed9-9f90-ac267a2b3fff.png)
     - [x] Faron Tower
     ![image](https://user-images.githubusercontent.com/33391637/227838446-89730365-9216-4451-8ad9-b05160faba65.png)
     - [x] Gerudo Tower
     ![image](https://user-images.githubusercontent.com/33391637/227838488-62804905-345a-4f2e-9879-e9e34e7e9631.png)
     - [x] Great Plateu Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228179051-ffb720b0-12e4-416d-b6e6-8902e7a21125.png)
     - [x] Hateno Tower
+    ![image](https://user-images.githubusercontent.com/33391637/228179011-76ef4b82-49b1-4a49-a2e5-fa748925ae19.png)
     - [x] Hebra Tower
     - [x] Lake Tower
     ![image](https://user-images.githubusercontent.com/33391637/227838672-cce0bd11-3d13-471c-8549-e7a0d2dc6a22.png)
@@ -60,6 +64,7 @@
     - [x] Stable Bridle.  
     ![image](https://user-images.githubusercontent.com/33391637/226120487-e72b08cd-148e-4fce-b988-797bc7a36dae.png)
     - [x] Traveler's Bridle.
+    ![image](https://user-images.githubusercontent.com/33391637/228178316-62d433bd-5668-48fe-b299-86ebb6ab6226.png)
 - [x] Obtain all Mini-Boss Medals of Honor from Kilton.
     - [ ] Medal of Honor: Hinox.  
     ![image](https://user-images.githubusercontent.com/33391637/226124650-c95b450e-8e7e-4bbc-8bb0-45f5ad7f5058.png)
@@ -71,9 +76,7 @@
 - [x] Obtain and fully upgrade all non-sellable Armor.
     - [x] Cap of the Wild.
     - [x] The Champion's Tunic.
-    ![image](https://user-images.githubusercontent.com/33391637/226704231-bcf5cee9-9945-4941-97cd-7f889b6461c5.png)
     - [x] Thunder Helm.
-    ![image](https://user-images.githubusercontent.com/33391637/226704116-3a42596c-6c87-45b3-adce-e8dacbcd6f29.png)
     - [x] Trousers of the Wild.
     - [x] Tunic of the Wild.
     - [x] Zora Armor.
@@ -136,7 +139,8 @@
     - [x] Barbarian Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701176-ae041836-f81d-468a-ba1a-5a66585ab508.png)
     - [x] Bokoblin Mask	
-    - [x] Champion's Tunic	    
+    - [x] Champion's Tunic	 
+    ![image](https://user-images.githubusercontent.com/33391637/226704231-bcf5cee9-9945-4941-97cd-7f889b6461c5.png)    
     - [x] Climbing Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701227-d9958116-7023-4b3e-9223-f8915090e65f.png)
     - [x] Dark Set.
@@ -184,7 +188,8 @@
     ![image](https://user-images.githubusercontent.com/33391637/226702618-b294a3b2-bbf9-40a0-bc25-b85a863571ae.png)
     - [x] Soldier's Set. 
     ![image](https://user-images.githubusercontent.com/33391637/227140841-06bd6941-5bd1-4960-9acc-ce51044d5350.png)
-    - [x] Thunder Helm    
+    - [x] Thunder Helm
+    ![image](https://user-images.githubusercontent.com/33391637/226704116-3a42596c-6c87-45b3-adce-e8dacbcd6f29.png)    
     - [x] Tingle's Outfit.
     ![image](https://user-images.githubusercontent.com/33391637/226874812-deb41c6a-164f-47c4-9e81-70efc4392aef.png)
     - [x] Topaz Earrings
