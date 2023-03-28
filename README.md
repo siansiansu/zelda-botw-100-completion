@@ -147,7 +147,7 @@
     ![image](https://user-images.githubusercontent.com/33391637/226701176-ae041836-f81d-468a-ba1a-5a66585ab508.png)
     - [x] Bokoblin Mask	
     - [x] Champion's Tunic	 
-    ![image](https://user-images.githubusercontent.com/33391637/226704231-bcf5cee9-9945-4941-97cd-7f889b6461c5.png)    
+    ![image](https://user-images.githubusercontent.com/33391637/228187583-9d429d5b-94fa-42c4-9276-b6553d682270.png)
     - [x] Climbing Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701227-d9958116-7023-4b3e-9223-f8915090e65f.png)
     - [x] Dark Set.
@@ -208,6 +208,7 @@
     - [x] Topaz Earrings
     ![image](https://user-images.githubusercontent.com/33391637/228182996-8c686267-386f-42a2-b2f5-31786193de43.png)
     - [x] Warm Doublet	
+    ![image](https://user-images.githubusercontent.com/33391637/228187680-f6d0deb9-224f-48fe-8f68-576f42ffc913.png)
     - [x] Worn Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226702530-5c71ebb5-42e1-404c-afa1-7ef302628a02.png)
     - [x] Zant's Helmet
