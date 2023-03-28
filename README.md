@@ -138,6 +138,7 @@
 - [x] Optional: Obtain all amiibo-exclusive gear.
 - [x] Optional: Obtain and fully upgrade one of every type of Armor.
     - [x] Amber Earrings	
+    ![image](https://user-images.githubusercontent.com/33391637/228185031-81f95d11-a994-4bd0-a85e-ed0561578870.png)
     - [x] Ancient Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701008-cdd17212-f193-49e7-8dc5-ad2248131d0c.png)
     - [x] Armor of the Wild.
@@ -154,6 +155,7 @@
     - [x] Desert Voe Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226702424-49394050-8e46-4e4e-8635-4034794252be.png)
     - [x] Diamond Circlet
+    ![image](https://user-images.githubusercontent.com/33391637/228185279-c7e4c6be-8ff4-450c-8d6b-c39203d6aa47.png)
     - [x] Flamebreaker Set.
     ![image](https://user-images.githubusercontent.com/33391637/226702332-118010b2-6fd8-48cb-a3eb-7ec0faecf398.png)
     - [x] Gerudo Set.
@@ -188,11 +190,13 @@
     - [x] Salvager's Set
     ![image](https://user-images.githubusercontent.com/33391637/227140919-859c1bcf-913a-4acd-b2cc-05b2175120a2.png)
     - [x] Sand Boots	
+    ![image](https://user-images.githubusercontent.com/33391637/228185134-fe92cefb-ffa9-4629-ae2a-6e5d1a60f57b.png)
     - [x] Sapphire Circlet    
     ![image](https://user-images.githubusercontent.com/33391637/228184225-7857f4cf-413e-49f9-80a7-db4c656380ae.png)
     - [x] Sheikah Set.  
     ![image](https://user-images.githubusercontent.com/33391637/226701843-59a2cae4-9fcb-4285-a2cc-95a62d1e9517.png)
     - [x] Snow Boots	    
+    ![image](https://user-images.githubusercontent.com/33391637/228185206-da62669b-aa53-4262-8ec9-3e1664c6c4df.png)
     - [x] Snowquill Set.
     ![image](https://user-images.githubusercontent.com/33391637/226702618-b294a3b2-bbf9-40a0-bc25-b85a863571ae.png)
     - [x] Soldier's Set. 
