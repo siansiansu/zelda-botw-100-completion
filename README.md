@@ -1,5 +1,8 @@
 # The 100 Percent Completion Checklist in Zelda BotW
 
+[![hackmd-github-sync-badge](https://hackmd.io/bV44VAPqSo6xNcvCREWPHA/badge)](https://hackmd.io/bV44VAPqSo6xNcvCREWPHA)
+
+
 - [x] Activate all 15 Sheikah Towers.
     - [x] Akkala Tower
     ![image](https://user-images.githubusercontent.com/33391637/228180416-88f8765d-26e0-4a98-aa96-d53bcfd84392.png)
