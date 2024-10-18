@@ -1,4 +1,4 @@
-# The 100 Percent Completion Checklist in Zelda BotW
+# 薩爾達傳說 曠野之息全搜集
 
 [![hackmd-github-sync-badge](https://hackmd.io/bV44VAPqSo6xNcvCREWPHA/badge)](https://hackmd.io/bV44VAPqSo6xNcvCREWPHA)
 
