@@ -1,4 +1,4 @@
-# 薩爾達傳說 曠野之息全搜集
+# 薩爾達傳說 曠野之息 100% 全收集
 
 [![hackmd-github-sync-badge](https://hackmd.io/bV44VAPqSo6xNcvCREWPHA/badge)](https://hackmd.io/bV44VAPqSo6xNcvCREWPHA)
 
